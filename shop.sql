@@ -1,3 +1,4 @@
+INSERT INTO `LYHMEut`.`ShopItems` (`id`, `itemname`, `cost`, `buyback`) VALUES ('41161', 'Tame Cow', '4000.00', '80.00')
 REPLACE INTO `LYHMEut`.`ShopItems` (`id`, `itemname`, `cost`, `buyback`) VALUES ('19950', '9M113 ATGM missile', '3000', '300');
 REPLACE INTO `LYHMEut`.`ShopItems` (`id`, `itemname`, `cost`, `buyback`) VALUES ('19951', '12.7mm Kord Box', '1000', '100');
 REPLACE INTO `LYHMEut`.`ShopItems` (`id`, `itemname`, `cost`, `buyback`) VALUES ('19952', '20mm Box (AP)', '4000', '400');
