@@ -1,0 +1,10 @@
+INSERT INTO `LYHMEut`.`ShopItems` (`id`, `itemname`, `cost`, `buyback`) VALUES ('58176', 'M84 "Flashbang" Stun Grenade', '4000', '800');
+INSERT INTO `LYHMEut`.`ShopItems` (`id`, `itemname`, `cost`, `buyback`) VALUES ('58290', 'Zarya Stun Grenade', '4000', '800');
+INSERT INTO `LYHMEut`.`ShopItems` (`id`, `itemname`, `cost`, `buyback`) VALUES ('58291', 'Model 7290 Stun Grenade', '4000', '800');
+INSERT INTO `LYHMEut`.`ShopItems` (`id`, `itemname`, `cost`, `buyback`) VALUES ('58296', 'RGD-2 Smoke Grenade (White)', '500', '100');
+INSERT INTO `LYHMEut`.`ShopItems` (`id`, `itemname`, `cost`, `buyback`) VALUES ('58297', 'RGD-2 Smoke Grenade (Red)', '500', '100');
+INSERT INTO `LYHMEut`.`ShopItems` (`id`, `itemname`, `cost`, `buyback`) VALUES ('58298', 'RGD-2 Smoke Grenade (Green)', '500', '100');
+INSERT INTO `LYHMEut`.`ShopItems` (`id`, `itemname`, `cost`, `buyback`) VALUES ('58299', 'RGD-2 Smoke Grenade (Yellow)', '500', '100');
+INSERT INTO `LYHMEut`.`ShopItems` (`id`, `itemname`, `cost`, `buyback`) VALUES ('58300', 'RGD-2 Smoke Grenade (Violet)', '500', '100');
+INSERT INTO `LYHMEut`.`ShopItems` (`id`, `itemname`, `cost`, `buyback`) VALUES ('58501', 'RGO Hand Grenade', '1000', '250');
+INSERT INTO `LYHMEut`.`ShopItems` (`id`, `itemname`, `cost`, `buyback`) VALUES ('58502', 'BEANO T-13 Impact Grenade', '2000', '500');
